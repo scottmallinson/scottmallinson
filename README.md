@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 I'm Scott, a British web developer living and working in Barcelona, Spain in the travel technology industry.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottmallinson&count_private=true&hide=contribs,stars&show_icons=true&custom_title=GitHub%20stats&include_all_commits=true)
+![Scott Mallinson's GitHub statistics](https://github-readme-stats.vercel.app/api?username=scottmallinson&count_private=true&hide=contribs,stars&show_icons=true&custom_title=GitHub%20stats&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottmallinson&custom_title=Most%20used%20languages)
+![Scott Mallinson's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scottmallinson&custom_title=Most%20used%20languages)
+
+[![Scott Mallinson's wakatime statistics](https://github-readme-stats.vercel.app/api/wakatime?username=scottmallinson)](https://github.com/anuraghazra/github-readme-stats)
+
